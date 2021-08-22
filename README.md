@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brauCastelblanco
 - 👀 I’m interested in data science, machine learning and business intelligence
-- 🌱 I’m currently studying a data science fundamentals nanodegree at Udacity
+- 🌱 I’m currently building up my data analytics skills on python with different projects
 - 💞️ I’m looking to collaborate on any proyect :)
 - 📫 You can reach me on my linkedin profile 
 
