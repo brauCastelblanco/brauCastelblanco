@@ -1,7 +1,7 @@
 <h1 align="center">Hey There! I'm Braulio Castelblanco</h1>
 <h3 align="center">Data Scientist and software Developer student</h3>
 
-- 🔭 I’m currently working as **data analyst**
+- 🔭 Working as **data analyst**
 
 - 🌱 I’m currently **finishing my diploma on software development**
 
