@@ -3,7 +3,7 @@
 
 - 🔭 Working as **data analyst**
 
-- 🌱 I’m currently **finishing my diploma on software development**
+- 🌱  **Software developer, business bachelor**
 
 - 💬 Ask me about **SQL and Python for data analysis**
 
